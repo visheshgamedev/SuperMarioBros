@@ -753,6 +753,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MysteryBlock (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1738986857589515602, guid: b51355af76ce3ec4d9b665bc1193dc85, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 2475470794697284672, guid: b51355af76ce3ec4d9b665bc1193dc85, type: 3}
       propertyPath: m_LocalPosition.x
       value: 21
@@ -1140,6 +1144,10 @@ PrefabInstance:
     - target: {fileID: 1738986857589515602, guid: b51355af76ce3ec4d9b665bc1193dc85, type: 3}
       propertyPath: m_Name
       value: MysteryBlock (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1738986857589515602, guid: b51355af76ce3ec4d9b665bc1193dc85, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2475470794697284672, guid: b51355af76ce3ec4d9b665bc1193dc85, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2396,6 +2404,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MysteryBlock (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 1738986857589515602, guid: b51355af76ce3ec4d9b665bc1193dc85, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 2475470794697284672, guid: b51355af76ce3ec4d9b665bc1193dc85, type: 3}
       propertyPath: m_LocalPosition.x
       value: 129
@@ -2520,6 +2532,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MysteryBlock (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1738986857589515602, guid: b51355af76ce3ec4d9b665bc1193dc85, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 2475470794697284672, guid: b51355af76ce3ec4d9b665bc1193dc85, type: 3}
       propertyPath: m_LocalPosition.x
       value: 23
@@ -2641,7 +2657,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 785534191}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: MysteryBoxes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2692,6 +2708,10 @@ PrefabInstance:
     - target: {fileID: 1738986857589515602, guid: b51355af76ce3ec4d9b665bc1193dc85, type: 3}
       propertyPath: m_Name
       value: MysteryBlock (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1738986857589515602, guid: b51355af76ce3ec4d9b665bc1193dc85, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2475470794697284672, guid: b51355af76ce3ec4d9b665bc1193dc85, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2815,6 +2835,10 @@ PrefabInstance:
     - target: {fileID: 1738986857589515602, guid: b51355af76ce3ec4d9b665bc1193dc85, type: 3}
       propertyPath: m_Name
       value: MysteryBlock (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1738986857589515602, guid: b51355af76ce3ec4d9b665bc1193dc85, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2475470794697284672, guid: b51355af76ce3ec4d9b665bc1193dc85, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3157,6 +3181,10 @@ PrefabInstance:
     - target: {fileID: 1738986857589515602, guid: b51355af76ce3ec4d9b665bc1193dc85, type: 3}
       propertyPath: m_Name
       value: MysteryBlock (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1738986857589515602, guid: b51355af76ce3ec4d9b665bc1193dc85, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2475470794697284672, guid: b51355af76ce3ec4d9b665bc1193dc85, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3828,6 +3856,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MysteryBlock (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 1738986857589515602, guid: b51355af76ce3ec4d9b665bc1193dc85, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 2475470794697284672, guid: b51355af76ce3ec4d9b665bc1193dc85, type: 3}
       propertyPath: m_LocalPosition.x
       value: 112
@@ -3951,6 +3983,10 @@ PrefabInstance:
     - target: {fileID: 1738986857589515602, guid: b51355af76ce3ec4d9b665bc1193dc85, type: 3}
       propertyPath: m_Name
       value: MysteryBlock (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1738986857589515602, guid: b51355af76ce3ec4d9b665bc1193dc85, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2475470794697284672, guid: b51355af76ce3ec4d9b665bc1193dc85, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4076,6 +4112,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MysteryBlock (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 1738986857589515602, guid: b51355af76ce3ec4d9b665bc1193dc85, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 2475470794697284672, guid: b51355af76ce3ec4d9b665bc1193dc85, type: 3}
       propertyPath: m_LocalPosition.x
       value: 106
@@ -4137,6 +4177,10 @@ PrefabInstance:
     - target: {fileID: 1738986857589515602, guid: b51355af76ce3ec4d9b665bc1193dc85, type: 3}
       propertyPath: m_Name
       value: MysteryBlock
+      objectReference: {fileID: 0}
+    - target: {fileID: 1738986857589515602, guid: b51355af76ce3ec4d9b665bc1193dc85, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2475470794697284672, guid: b51355af76ce3ec4d9b665bc1193dc85, type: 3}
       propertyPath: m_LocalPosition.x
@@ -10599,6 +10643,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8231085794348206462, guid: 328c377aaf0fc2846a0a18e07f7cb193, type: 3}
+      propertyPath: m_Volume
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8231085794348206462, guid: 328c377aaf0fc2846a0a18e07f7cb193, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 3c534b799c898a04db98560af0780627, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10656,6 +10708,10 @@ PrefabInstance:
     - target: {fileID: 1738986857589515602, guid: b51355af76ce3ec4d9b665bc1193dc85, type: 3}
       propertyPath: m_Name
       value: MysteryBlock (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1738986857589515602, guid: b51355af76ce3ec4d9b665bc1193dc85, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2475470794697284672, guid: b51355af76ce3ec4d9b665bc1193dc85, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11879,6 +11935,10 @@ PrefabInstance:
     - target: {fileID: 1738986857589515602, guid: b51355af76ce3ec4d9b665bc1193dc85, type: 3}
       propertyPath: m_Name
       value: MysteryBlock (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1738986857589515602, guid: b51355af76ce3ec4d9b665bc1193dc85, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2475470794697284672, guid: b51355af76ce3ec4d9b665bc1193dc85, type: 3}
       propertyPath: m_LocalPosition.x

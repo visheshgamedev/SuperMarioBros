@@ -6,13 +6,24 @@ public class MysteryBlock : MonoBehaviour
 {
     [SerializeField] private Sprite emptyBlock;
 
+    private AudioSource coinAudioSource;
+    private BoxCollider2D boxCollider;
+
+    private void Awake()
+    {
+        coinAudioSource = GetComponent<AudioSource>();
+        boxCollider = GetComponent<BoxCollider2D>();
+    }
+
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.CompareTag("Player"))
+        if (collision.gameObject.CompareTag("Player") && this.enabled == true)
         {
             GameManager.instance.AddScore(100);
             GameManager.instance.AddCoin();
+            coinAudioSource.Play();
             gameObject.GetComponent<SpriteRenderer>().sprite = emptyBlock;
+            this.enabled = false;
         }
     }
 }
