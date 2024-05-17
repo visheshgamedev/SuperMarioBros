@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerController : MonoBehaviour
+public class PlayerMovement : MonoBehaviour
 {
     [SerializeField] private float playerSpeed = 8.0f;
     [SerializeField] private float playerJumpForce = 10.0f;

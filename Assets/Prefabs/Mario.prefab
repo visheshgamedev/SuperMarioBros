@@ -12,8 +12,9 @@ GameObject:
   - component: {fileID: 6987706045553819350}
   - component: {fileID: 8739488513710129115}
   - component: {fileID: 8309850673514487036}
+  - component: {fileID: 6134028550021241771}
   - component: {fileID: 1333721771213053022}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Mario
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -116,6 +117,18 @@ MonoBehaviour:
   groundLayer:
     serializedVersion: 2
     m_Bits: 8
+--- !u!114 &6134028550021241771
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 10296043963895348}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5d0532d0383c4a448317baf10153686, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!212 &1333721771213053022
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -179,7 +192,7 @@ GameObject:
   - component: {fileID: 5434305477398851861}
   - component: {fileID: 4160518564514199628}
   - component: {fileID: 4830042425302740588}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Small
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -285,7 +298,7 @@ GameObject:
   - component: {fileID: 1213571658204726626}
   - component: {fileID: 7223163198403507127}
   - component: {fileID: 1781311855649347217}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Big
   m_TagString: Untagged
   m_Icon: {fileID: 0}

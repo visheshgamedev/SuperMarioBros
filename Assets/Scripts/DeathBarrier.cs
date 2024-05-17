@@ -9,6 +9,7 @@ public class DeathBarrier : MonoBehaviour
         if(collision.CompareTag("Player"))
         {
             collision.gameObject.SetActive(false);
+            GameManager.instance.ResetLevel();
         }
         else
         {
