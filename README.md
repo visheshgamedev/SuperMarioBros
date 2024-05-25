@@ -1,13 +1,11 @@
-# SuperMarioBros
+# Super Mario Bros
  A Super Mario Bros Clone
 
 Following are some of the bugs -
-1. Mario is a bit bouncy on movement on ground
-2. Stomping a Goomba not working
-3. Able to collect coins from mystery boxes from standing above also
-4. Live score and coins is not updating
-5. Goomba not flipping upon collision
-6. In camera movement mario is able to move to the left of the camera
+1. Stomping a Goomba not working
+2. Live score and coins is not updating
+3. Goomba not flipping upon collision
+4. In camera movement mario is able to move to the left of the camera
 
 I was also not able to implement any sort of animation on mario, but was able to implement the animation on goomba.
 
