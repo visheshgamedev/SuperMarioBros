@@ -3,7 +3,7 @@ An attempt to clone the infamous Super Mario Bros
 
 You can download the playable build from - https://visheshshahani.itch.io/super-mario-bros-clone
 
-The following mechanics are working in the game -
+## The following mechanics are working in the game -
 1. Mario - Movement - Left, Right, Jump
 2. Enemy - Automatically Moves Left, Enemy entities only activate upon screen visible. Upon collision game restarts detecting 1 life
 3. Coin Collection - Coin and Score is incremented upon the mystery box collection
@@ -15,9 +15,9 @@ The following mechanics are working in the game -
 9. UI Manager - Score, Coins, and Lives are shown
 10. Audio - Basic Music played in the background, Mystery Box collection sound
 
-I was also not able to implement any animation on Mario but I was able to implement the animation on goomba.
+### I was also not able to implement any animation on Mario but I was able to implement the animation on goomba.
 
-Following are some of the bugs -
+## Following are some of the bugs -
 1. Stomping a Goomba not working
 2. Live score and coins are not updating
 3. Goomba not flipping upon collision
