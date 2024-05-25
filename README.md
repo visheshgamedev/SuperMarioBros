@@ -1,6 +1,8 @@
 # Super Mario Bros
  A Super Mario Bros Clone
 
+You can download the playable build from - https://visheshshahani.itch.io/super-mario-bros-clone
+
 Following are some of the bugs -
 1. Stomping a Goomba not working
 2. Live score and coins is not updating
